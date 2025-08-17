@@ -1,0 +1,10 @@
+
+Traza a 10.1.1.1 sobre caminos de 30 saltos como m ximo.
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.254 
+  2     4 ms     5 ms     6 ms  dsl-servicio-l200.uninet.net.mx [200.38.193.226] 
+  3    46 ms    46 ms    46 ms  
+Traza a 10.1.1.1 sobre caminos de 30 saltos como m ximo.
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.254 
+  2     7 ms     6 ms     6 ms  dsl-servicio-l200.uninet.net.mx [200.38.193.226] 
